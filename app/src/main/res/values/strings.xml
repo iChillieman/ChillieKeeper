@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChillieKeeper</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="master_password">Master Password</string>
+    <string name="master_password_hint">Enter Master Password</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="create">Create</string>
+    <string name="need_help">Need Help?</string>
+    <string name="use_enterprise_login">Use Enterprise SSO Login</string>
+    <string name="copyright">© 2020 Keeper Security, Inc.</string>
+    <string name="login_error_title">Error</string>
+    <string name="login_error_ok">OK</string>
+    <string name="login_error_out_of_scope">This feature is outside the scope of this sample project.</string>
+    <string name="login_error_email">Invalid Email format</string>
+    <string name="login_error_password">Invalid Password Length</string>
+</resources>
